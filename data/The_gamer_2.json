@@ -1,0 +1,18 @@
+{
+    "id": 125990064,
+    "name": "The gamer 2",
+    "author": "Gamer862",
+    "creators": ["Gamer862"],
+    "verifier": "Gamer862",
+    "verification": "https://youtu.be/jDRk0vUuKbM",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "nah",
+            "link": "https://www.youtube.com/watch?v=Aq5WXmQQooo",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
