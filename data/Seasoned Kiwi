@@ -1,0 +1,24 @@
+{
+    "id": 123151680,
+    "name": "TheTerribleBall",
+    "author": "TheAmazingHi",
+    "creators": ["TheAmazingHi"],
+    "verifier": "TheAmazingHi",
+    "verification": "https://www.youtube.com/watch?v=TuNvTlC7Xgo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/78Qeelkljc0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://www.youtube.com/watch?v=MhNvIP88OfU",
+            "percent": 100,
+            "hz": "(CBF)480"
+        }
+    ]
+}
