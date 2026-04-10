@@ -1,0 +1,24 @@
+{
+    "id": 125595304,
+    "name": "Ex",
+    "author": "TheAmazingHi",
+    "creators": ["TheAmazingHi"],
+    "verifier": "TheAmazingHi",
+    "verification": "https://www.youtube.com/watch?v=AU9m68cc0Mg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/Pc9B3Ftt15M",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DrewJourneyy",
+            "link": "https://youtu.be/awnmtQYZuG0",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
