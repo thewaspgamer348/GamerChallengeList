@@ -1,0 +1,36 @@
+{
+    "id": 125303526,
+    "name": "DESPACITO",
+    "author": "DrewJourneyy",
+    "creators": ["DrewJourneyy"],
+    "verifier": "DrewJourneyy",
+    "verification": "https://youtu.be/wlnASP_OBh0",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/xwFlYEzdInU",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Wiluck",
+            "link": "https://discord.com/channels/1384307875484270694/1412187947171577886/1412187947171577886",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
+        {
+            "user": "TheAmazingHi",
+            "link": "https://www.youtube.com/watch?v=_Y3G6fvE_NA",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/ZGeqziobbVY",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        }
+    ]
+}
