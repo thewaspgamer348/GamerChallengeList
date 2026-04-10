@@ -1,0 +1,18 @@
+{
+    "id": 125768995,
+    "name": "Depression",
+    "author": "Quantanium",
+    "creators": ["Quantanium"],
+    "verifier": "Gamer862",
+    "verification": "https://youtu.be/n-PTHeA-jZU",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/sukxEJO-bEM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
