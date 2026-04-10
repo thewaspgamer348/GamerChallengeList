@@ -1,0 +1,24 @@
+{
+    "id": 119752270,
+    "name": "Seasoned Kiwi",
+    "author": "JoeBeSlow",
+    "creators": ["JoeBeSlow"],
+    "verifier": "JoeBeSlow",
+    "verification": "https://youtu.be/PK5uCrBEaSQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Crovave",
+            "link": "https://youtu.be/tXfDaV8mWQQ",
+            "percent": 100,
+            "hz": "(CBF) 360"
+        },
+        {
+            "user": "geo",
+            "link": "https://youtu.be/x941O9dLpzI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
