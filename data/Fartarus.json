@@ -1,0 +1,18 @@
+{
+    "id": 125768995,
+    "name": "Hi Im Aeon",
+    "author": "TheAmazingHi",
+    "creators": ["TheAmazingHi"],
+    "verifier": "DrewJourneyy",
+    "verification": "https://youtu.be/NecStSoQ8Jg",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/ZA9yWNp8Ew8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
