@@ -1,0 +1,24 @@
+{
+    "id": 125191867,
+    "name": "DrewJourneyy Challenge",
+    "author": "TheAmazingHi",
+    "creators": ["TheAmazingHi"],
+    "verifier": "DrewJourneyy",
+    "verification": "https://www.youtube.com/watch?v=FmnE-J8-wOo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/4U19Y9r_5ws",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/ZGeqziobbVY",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        }
+    ]
+}
