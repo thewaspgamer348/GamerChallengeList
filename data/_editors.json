@@ -1,27 +1,32 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Quantanium",
+        "link": "https://www.youtube.com/@QuantaniumYT"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "TheAmazingHi",
+        "link": "https://www.youtube.com/@TheAmazingHi"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "geo mate",
+        "link": "https://www.youtube.com/@geomateyt"
+    },
+    {
+        "role": "helper",
+        "name": "DrewJourneyy",
+        "link": "https://www.youtube.com/@DrewJourneyy"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "wiluck",
+        "link": "https://www.youtube.com/channel/UCUlH9F0cb8a02PYNJH8ZkhA"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Quantanium",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
