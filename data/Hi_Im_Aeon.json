@@ -1,0 +1,18 @@
+{
+    "id": 125768995,
+    "name": "Hi Im Aeon",
+    "author": "DrewJourneyy",
+    "creators": ["DrewJourneyy"],
+    "verifier": "DrewJourneyy",
+    "verification": "https://youtu.be/XHcuXMB7JqM",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/nUPCY8Ao-UE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
