@@ -1,0 +1,54 @@
+{
+    "id": 125395801,
+    "name": "Gamer 1",
+    "author": "Quantanium",
+    "creators": ["Quantanium"],
+    "verifier": "Quantanium",
+    "verification": "https://youtu.be/l5SnCyZzRI4?si=c2gF7Jb53xcalmpe",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DrewJourneyy",
+            "link": "https://youtu.be/pYY08xDbj0I",
+            "percent": 100,
+            "hz": "480"
+        },
+        {
+            "user": "Tryut",
+            "link": "https://youtu.be/u--XQEXuqN0",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        },
+        {
+            "user": "sniper",
+            "link": "https://youtu.be/0hu7oHx-Am0",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "geo",
+            "link": "https://youtu.be/xEm8aiWlD1M",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Wiluck",
+            "link": "https://discord.com/channels/1384307875484270694/1412113205920137247/1412113259795841076",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
+        {
+            "user": "TheAmazingHi",
+            "link": "https://www.youtube.com/watch?v=jFLmxgXgvYg",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/44UjEMuoWy8",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
+    ]
+}
