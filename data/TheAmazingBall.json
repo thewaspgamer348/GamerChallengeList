@@ -1,0 +1,48 @@
+{
+    "id": 125303526,
+    "name": "TheAmazingBall",
+    "author": "Quantanium",
+    "creators": ["Quantanium"],
+    "verifier": "Quantanium",
+    "verification": "https://youtu.be/vdc87JD4Jcw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TheAmazingHi",
+            "link": "https://www.youtube.com/watch?v=mmUTBp3Ofig",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "DrewJourneyy",
+            "link": "https://youtu.be/e-qq5V2up-M",
+            "percent": 100,
+            "hz": "480"
+        },
+        {
+            "user": "Tryut",
+            "link": "https://youtu.be/GMPvd1WVc0k",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        },
+        {
+            "user": "geo",
+            "link": "https://youtu.be/4U19Y9r_5ws",
+            "percent": 100,
+            "hz": "240"
+        }
+        {
+            "user": "Wiluck",
+            "link": "https://discord.com/channels/1384307875484270694/1412573151065411585/1412573151065411585",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        }
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/44UjEMuoWy8",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        }
+    ]
+}
