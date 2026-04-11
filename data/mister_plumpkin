@@ -1,0 +1,24 @@
+{
+    "id": 125482241,
+    "name": "mister plumpkin",
+    "author": "DrewJourneyy",
+    "creators": ["DrewJourneyy"],
+    "verifier": "DrewJourneyy",
+    "verification": "https://youtu.be/i1VreRFd1E8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://www.youtube.com/watch?v=L1mHlnbcqBs",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/vFxzRi760WE",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        }
+    ]
+}
