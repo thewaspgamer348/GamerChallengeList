@@ -1,0 +1,24 @@
+{
+    "id": 125559506,
+    "name": "THE 3 gamers",
+    "author": "TheAmazingHi",
+    "creators": ["TheAmazingHi"],
+    "verifier": "TheAmazingHi",
+    "verification": "https://www.youtube.com/watch?v=ZX65pjPaJ1Y",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/Pwc6K3mv0Mk",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Dooder",
+            "link": "https://www.youtube.com/watch?v=BZagSeUNiog",
+            "percent": 100,
+            "hz": "(CBF) 165"
+        }
+    ]
+}
