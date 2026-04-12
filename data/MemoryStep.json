@@ -1,0 +1,48 @@
+{
+    "id": 125274787,
+    "name": "MemoryStep",
+    "author": "Quantanium",
+    "creators": ["Quantanium"],
+    "verifier": "Quantanium",
+    "verification": "https://youtu.be/VLQqtvt-b6Y",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TheAmazingHi",
+            "link": "https://youtu.be/TwQKkf3AHFU?si=zIFns8VSaALuONzl",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "DrewJourneyy",
+            "link": "https://youtu.be/v1moWgHTjWM",
+            "percent": 100,
+            "hz": "480"
+        },
+        {
+            "user": "Tryut",
+            "link": "https://youtu.be/z1Ni88zkEpo",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        },
+        {
+            "user": "geo",
+            "link": "https://youtu.be/z1Ni88zkEpo",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/ZGeqziobbVY",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
+        {
+            "user": "EvilRainbow",
+            "link": "https://www.youtube.com/shorts/SBw4FsZ1xYo",
+            "percent": 100,
+            "hz": "144"
+        }
+    ]
+}
