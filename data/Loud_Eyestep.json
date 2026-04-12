@@ -1,0 +1,54 @@
+{
+    "id": 120996011,
+    "name": "Loud Eyestep",
+    "author": "TheAmazingHi",
+    "creators": ["TheAmazingHi"],
+    "verifier": "TheAmazingHi",
+    "verification": "https://www.youtube.com/watch?v=t1ohJ5P1eFU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Quantanium",
+            "link": "https://youtu.be/fL93qXk19S8",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "EvilRainbow",
+            "link": "https://www.youtube.com/watch?v=ueqrVOJTUhE",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        },
+        {
+            "user": "DrewJourneyy",
+            "link": "https://youtu.be/6s7GBNh-5Eg",
+            "percent": 100,
+            "hz": "480" 
+        },
+        {
+            "user": "Tryut",
+            "link": "https://youtu.be/h2bUf2UDk9w",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        },
+        {
+            "user": "geo",
+            "link": "https://www.youtube.com/watch?v=4U19Y9r_5ws",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "sniper",
+            "link": "https://youtu.be/X6oZBScVEcQ",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/44UjEMuoWy8",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        }
+    ]
+}
