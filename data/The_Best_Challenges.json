@@ -1,0 +1,18 @@
+{
+    "id": 125661984,
+    "name": "The Best Challenge",
+    "author": "Quantanium",
+    "creators": ["Quantanium"],
+    "verifier": "Quantanium",
+    "verification": "https://youtu.be/iJYyMP7XxiU?si=aOlxU0Jk_N2kp-S6",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/nUPCY8Ao-UE",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
