@@ -1,0 +1,36 @@
+{
+    "id": 125528267,
+    "name": "4 SECONDS GRIEF",
+    "author": "Wiluck",
+    "creators": ["Wiluck"],
+    "verifier": "Wiluck",
+    "verification": "https://cdn.discordapp.com/attachments/1412540921484148900/1412540922335461396/09013.mp4?ex=69dc063f&is=69dab4bf&hm=97c2d4cf244b54b29bf38db6127f1678cb0a9e56beda114a5ac50b4344580585&",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://www.youtube.com/watch?v=MhNvIP88OfU",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
+        {
+            "user": "geo",
+            "link": "https://youtu.be/1-JtJkXvHLs",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "DrewJourneyy",
+            "link": "https://youtu.be/oDrMXmQbnAU",
+            "percent": 100,
+            "hz": "480"
+        },
+        {
+            "user": "GDRhys",
+            "link": "https://cdn.discordapp.com/attachments/1419029649131835523/1419029706514370560/4sg.mp4?ex=69dbe666&is=69da94e6&hm=39dd3b3310653b9cf3338dcbda05fea440feaa6ccf5b5f6033ceb1136fc657bd&",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
