@@ -1,0 +1,54 @@
+{
+    "id": 121198602,
+    "name": "MLG pro",
+    "author": "Quantanium",
+    "creators": ["Quantanium"],
+    "verifier": "Quantanium",
+    "verification": "https://youtu.be/ZebqIc1eSFQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TheAmazingHi",
+            "link": "https://www.youtube.com/watch?v=Hk3z5ZFlbyw",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "EvilRainbow",
+            "link": "https://www.youtube.com/shorts/D-sVGRMuOac",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        },
+        {
+            "user": "DrewJourneyy",
+            "link": "https://youtu.be/POgNw2FVPWs",
+            "percent": 100,
+            "hz": "480" 
+        },
+        {
+            "user": "Tryut",
+            "link": "https://youtu.be/tiP3aZxujDM",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        },
+        {
+            "user": "geo",
+            "link": "https://youtu.be/4U19Y9r_5ws",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Wiluck",
+            "link": "https://discord.com/channels/1384307875484270694/1412108799363518485/1412108799363518485",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/44UjEMuoWy8",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        }
+    ]
+}
