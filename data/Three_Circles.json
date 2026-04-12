@@ -1,0 +1,66 @@
+{
+    "id": 110144558,
+    "name": "Three Circles",
+    "author": "Quantanium",
+    "creators": ["Quantanium"],
+    "verifier": "Quantanium",
+    "verification": "https://youtu.be/yv-rZa5plrs",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TheAmazingHi",
+            "link": "https://www.youtube.com/watch?v=8aOqYw-cglY",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "EvilRainbow",
+            "link": "https://youtu.be/IGmuI5e4oFY",
+            "percent": 100,
+            "hz": "144"
+        },
+        {
+            "user": "DrewJourneyy",
+            "link": "https://youtu.be/ESPdrAp1FVc",
+            "percent": 100,
+            "hz": "480" 
+        },
+        {
+            "user": "Tryut",
+            "link": "https://youtu.be/ESPdrAp1FVc",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        },
+        {
+            "user": "geo",
+            "link": "https://youtu.be/4U19Y9r_5ws",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "sniper",
+            "link": "https://youtu.be/6X2p-WHbPGk",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "Wiluck",
+            "link": "https://discord.com/channels/1384307875484270694/1412108799363518485/1412108799363518485",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://www.youtube.com/watch?v=44UjEMuoWy8",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
+        {
+            "user": "GDRhys",
+            "link": "https://cdn.discordapp.com/attachments/1419029649131835523/1419036273737466117/3_circles.mp4?ex=68d04c04&is=68cefa84&hm=e6c95c606e03e3d3e9eddcb9ea23cfc1ccf34fc1ecb5ccd5ba3d9f266c336d3a&",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
