@@ -1,0 +1,54 @@
+{
+    "id": 121144134,
+    "name": "Dead Eyes",
+    "author": "Quantanium",
+    "creators": ["Quantanium"],
+    "verifier": "Quantanium",
+    "verification": "https://www.youtube.com/watch?v=6oA63m0pyYU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TheAmazingHi",
+            "link": "https://www.youtube.com/watch?v=xhZ0RLHUDpk",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "DrewJourneyy",
+            "link": "https://youtu.be/pYY08xDbj0I",
+            "percent": 100,
+            "hz": "480"
+        },
+        {
+            "user": "EvilRainbow",
+            "link": "https://www.youtube.com/watch?v=iBldlLuq-ks",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        },
+        {
+            "user": "Tryut",
+            "link": "https://youtu.be/GcYQEbXjwTY",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        },
+        {
+            "user": "geo",
+            "link": "https://youtu.be/4U19Y9r_5ws",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Wiluck",
+            "link": "https://discord.com/channels/1384307875484270694/1412573151065411585/1412573151065411585",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/ZGeqziobbVY",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        }
+    ]
+}
