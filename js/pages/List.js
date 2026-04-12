@@ -117,6 +117,16 @@ export default {
                     <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
+                    <h3>Level Creation Rules</h3>
+                    <p>
+                        Levels with spam must be under 15 CPS
+                    </p>
+                    <p>
+                        Levels must be under 45 seconds long
+                    </p>
+                    <p>
+                        Levels that use gameplay from pre-existing levels must change either gameplay, deco, or both
+                    </p>
                 </div>
             </div>
         </main>
