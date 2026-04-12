@@ -1,0 +1,24 @@
+{
+    "id": 123151680,
+    "name": "Dual Challenge X",
+    "author": "DrewJourneyy",
+    "creators": ["DrewJourneyy"],
+    "verifier": "DrewJourneyy",
+    "verification": "https://youtu.be/7s0-pSUCIew",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/weDZGYoEuao",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
+        {
+            "user": "EvilRaibow",
+            "link": "https://www.youtube.com/shorts/L3j01I71vBY",
+            "percent": 100,
+            "hz": "144"
+        }
+    ]
+}
