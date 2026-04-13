@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/shorts/SBw4FsZ1xYo",
             "percent": 100,
             "hz": "144"
+        },
+        {
+            "user": "leaf",
+            "link": "https://youtu.be/9BTJU75GFp8",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
